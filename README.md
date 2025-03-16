@@ -46,5 +46,3 @@ Este script de Python genera un token JWT (JSON Web Token) y lo utiliza para obt
 * Asegúrate de que tu información de configuración sea correcta para que el script funcione.
 * Los Tokens JWT tienen un tiempo de expiración, en este caso 20 minutos. Si el token expira, tendrás que generar uno nuevo.
 * Este código no maneja todos los posibles errores, por lo que podría ser necesario agregar más manejo de errores para uso en producción.
-
-¡Espero que esto te ayude a entender cómo funciona el código! Si tienes más preguntas, ¡no dudes en preguntar!
